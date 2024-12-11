@@ -6,11 +6,12 @@
 [![Snort](https://img.shields.io/badge/Snort-FF69B4?style=flat-square&logo=snort&logoColor=white)](https://www.snort.org/)
 [![Squid](https://img.shields.io/badge/Squid-004B87?style=flat-square&logo=squid&logoColor=white)](http://www.squid-cache.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat-square&logo=nmap&logoColor=white)](https://nmap.org/)
-![pfSense GIF](img/pfsense-animated.gif)
+
 
 <img src="img/logo.png" alt="Audit de Sécurité" width="200" />
-<img src="img/background.jpg" alt="Fond personnalisé" width="100%" />
-![pfSense GIF](img/pfsense-animated.gif)
+<div style="border: 2px solid #0078D7; padding: 10px; border-radius: 10px;">
+  <strong>Note :</strong> Assurez-vous d’appliquer les dernières mises à jour de sécurité pour pfSense.
+</div>
 
 ---
 
