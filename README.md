@@ -21,11 +21,11 @@ Les étapes sont conçues pour aider à mettre en place une solution de sécurit
 
 ### 📂 **Repository Content**
 
-- **cert-https/** : Contient les certificats pour sécuriser les communications HTTPS.
-- **data/** : Fichiers de configuration et de données pour les tests et les déploiements.
-- **doc/** : Documentation complète des configurations et explications des choix techniques.
-- **img/** : Images et captures d’écran pour illustrer les configurations et l’analyse des logs.
-- **README.md** : Guide détaillé du projet.
+- **`cert-https`/** : Contient les certificats pour sécuriser les communications HTTPS.
+- **`data`/** : Fichiers de configuration et de données pour les tests et les déploiements.
+- **`doc`/** : Documentation complète des configurations et explications des choix techniques.
+- **`img`/** : Images et captures d’écran pour illustrer les configurations et l’analyse des logs.
+- **`README.md`** : Guide détaillé du projet.
 
 ---
 
