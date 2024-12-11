@@ -7,7 +7,7 @@
 [![Squid](https://img.shields.io/badge/Squid-004B87?style=flat-square&logo=squid&logoColor=white)](http://www.squid-cache.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat-square&logo=nmap&logoColor=white)](https://nmap.org/)
 
-![pfSense Logo](img/logo.png)
+![pfSense Logo](img/pfsense-logo1.png)
 
 ---
 
