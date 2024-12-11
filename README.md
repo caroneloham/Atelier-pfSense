@@ -8,7 +8,10 @@
 [![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat-square&logo=nmap&logoColor=white)](https://nmap.org/)
 
 
-<img src="img/background.png" alt="Audit de Sécurité" width="500" />
+<p align="center">
+  <img src="img/background.png" alt="Audit de Sécurité" width="700"/>
+</p>
+
 
 ---
 
