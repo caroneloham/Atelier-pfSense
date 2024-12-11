@@ -9,6 +9,7 @@
 
 <img src="img/logo.png" alt="Audit de Sécurité" width="200" />
 <img src="img/background.jpg" alt="Fond personnalisé" width="100%" />
+![pfSense GIF](img/pfsense-animated.gif)
 
 ---
 
