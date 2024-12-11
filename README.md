@@ -9,9 +9,6 @@
 
 
 <img src="img/logo.png" alt="Audit de Sécurité" width="200" />
-<div style="border: 2px solid #0078D7; padding: 10px; border-radius: 10px;">
-  <strong>Note :</strong> Assurez-vous d’appliquer les dernières mises à jour de sécurité pour pfSense.
-</div>
 
 ---
 
@@ -118,3 +115,7 @@ Les étapes sont conçues pour aider à mettre en place une solution de sécurit
 ### 📧 **Contact**
 
 Pour toute question ou contribution, contactez **caroneloham** via GitHub.
+
+<div style="border: 2px solid #0078D7; padding: 10px; border-radius: 10px;">
+  <strong>Note :</strong> Assurez-vous d’appliquer les dernières mises à jour de sécurité pour pfSense.
+</div>
