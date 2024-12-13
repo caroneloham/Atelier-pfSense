@@ -1,55 +1,31 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
 
 Copyright (c) 2024 caroneloham
 
 This license applies to all content within this repository, including but not limited to documentation, configurations, images, scripts, and related materials (collectively referred to as the "Work").
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Work, to use, copy, take screenshots, distribute, and share portions of the Work, subject to the following conditions:
 
-## **TERMS AND CONDITIONS**
+1. Attribution:
+   You must give appropriate credit to the original author, "caroneloham", provide a link to the repository, and indicate if changes were made. Proper attribution must be clear and visible in any usage, such as:
+   "Content derived from the 'pfSense Network Configuration and Security Guide' by caroneloham, available at https://github.com/caroneloham."
 
-### 1. **Attribution**
+2. Non-Commercial Use:
+   You may not use the Work for commercial purposes without explicit written permission from the author.
 
-You are free to:
-- **Share**: Copy, distribute, and transmit the Work.
-- **Adapt**: Remix, transform, and build upon the Work.
+3. Share-Alike:
+   If you remix, transform, or build upon the Work, you must distribute your contributions under the same license as the original.
 
-**Under the following conditions:**
+4. Permissions and Restrictions:
+   - You are allowed to capture screenshots, copy sections, and use excerpts of the Work for personal or educational purposes, provided proper attribution is given.
+   - The Work includes software configurations, scripts, and documentation provided "as is" without warranty of any kind.
+   - You may not add additional legal terms or technological measures that restrict others from using the Work under these terms.
 
-- **Attribution**: You must give appropriate credit to the original author, **caroneloham**, provide a link to the repository, and indicate if changes were made. Credit must be given in a clear and visible manner such as:
-  > "Based on work by [caroneloham](https://github.com/caroneloham) from the *pfSense Network Configuration and Security Guide* repository."
+5. Disclaimer of Warranty:
+   The Work is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. The author is not liable for any claims, damages, or other liabilities arising from the use or inability to use the Work.
 
-- **Non-Commercial Use**: You may not use this Work for commercial purposes without explicit permission from the author.
+6. Redistribution:
+   When redistributing the Work or derivative works, you must include this full license text and ensure that attribution is clearly provided.
 
-- **Share-Alike**: If you remix, transform, or build upon the Work, you must distribute your contributions under the same license as the original.
-
-### 2. **Permissions and Restrictions**
-
-- **Captures and Excerpts**: You are permitted to take screenshots, copy sections, and use excerpts of the Work for personal or educational purposes, provided proper attribution is given.
-  
-- **Software Use**: Configuration scripts and software snippets included in this repository may be used under this license, but they are provided "as is" without warranty of any kind. The author is not liable for any damages or issues arising from the use of this software.
-
-- **No Additional Restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-### 3. **Disclaimer of Warranty**
-
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE WORK.
-
-### 4. **Redistribution**
-
-When redistributing the Work or any derivative works, you must include this full license and ensure that attribution is clearly provided.
-
-### 5. **Usage Examples**
-
-- **Correct Attribution**:  
-  "Content derived from [pfSense Network Configuration and Security Guide](https://github.com/caroneloham), created by caroneloham, licensed under CC BY-NC-SA 4.0."
-
-- **Incorrect Attribution**:  
-  Failing to credit the author or omitting the license details.
-
----
-
-## **Full License Text**
-
-For more details, see the full license here:  
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+For the full legal text of this license, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
