@@ -7,7 +7,7 @@
 [![Squid](https://img.shields.io/badge/Squid-004B87?style=flat-square&logo=squid&logoColor=white)](http://www.squid-cache.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat-square&logo=nmap&logoColor=white)](https://nmap.org/)
 
-![Banner](Img/background.png)
+![Banner](img/background.png)
 <p align="center">
   <img src="img/background.png" alt="Audit de Sécurité" width="700"/>
 </p>
