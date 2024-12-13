@@ -1,0 +1,68 @@
+# Fichiers de configuration sensibles
+config/*.conf
+config/*.xml
+config/*.ini
+
+# Clés privées et certificats
+certs/*.key
+certs/*.pem
+certs/*.crt
+
+# Sauvegardes
+*.bak
+*.backup
+
+# Fichiers de logs
+logs/*
+*.log
+*.err
+
+# Images disque et VM
+*.iso
+*.vmdk
+*.ova
+*.ovf
+
+# Fichiers de cache
+.cache/
+*.tmp
+*.swp
+
+# Fichiers système spécifiques
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers générés par l'IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Fichiers de déploiement ou d'environnement
+.env
+.env.local
+.env.*.local
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Packages Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Documentation générée
+doc/_build/
+doc/build/
+site/
+
+# Exclusions spécifiques à Git
+.gitignore
+
+# Exclure le dossier img
+img/
+/
